@@ -1,1 +1,18 @@
-
+body {
+  background: #ffb6c1; 
+}
+h1 {
+  font-family: monospace;
+  color: #4f0391;
+  text-align: center;
+}
+h2 {
+   font-family: monospace;
+  color: #4f0391;
+  text-align: left;
+}
+p {
+  font-family: monospace;
+  color: #4f0391;
+  text-align: left;
+}
